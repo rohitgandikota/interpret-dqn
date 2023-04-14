@@ -8,3 +8,14 @@ We dissect the neurons of a trained DQN model that can play Atari PingPong-v4. W
 <div align='center'>
 <img src = 'images/neuron17_1.png'>
 </div>
+
+
+We dissect the neurons of a trained DQN model that can play Atari PingPong-v4. We find that neuron 17 in Conv layer 2 looks at the boundaries of the game so as to keep track of the bounce
+<div align='center'>
+<img src = 'images/neuron17.png'>
+</div>
+
+We also see that Neuron 31 in Conv layer 2 has a track of the agents own score.
+<div align='center'>
+<img src = 'images/neuron31.png'>
+</div>
