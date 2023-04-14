@@ -1,4 +1,4 @@
-# Interpreting DQN: How can Deep-Q-Networks play Ping-Pong?
+# How can Deep-Q-Networks play Atari Ping-Pong?
 ### [[PAPER]](https://github.com/rohitgandikota/interpret-dqn/blob/main/interpret_dqn.pdf)    |    [[Train Code]](https://github.com/rohitgandikota/interpret-dqn/tree/main/train-code)    |    [[Pre-Trained Weights]](https://github.com/rohitgandikota/interpret-dqn/tree/main/models)    |    [[DQN Intepretation Code]](https://github.com/rohitgandikota/interpret-dqn/blob/main/visualize_dqn.ipynb)
 
 ## Introduction
