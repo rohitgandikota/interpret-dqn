@@ -7,7 +7,7 @@ In this work, we dissect the deep neural network that is trained using Q-learnin
 We dissect the neurons of a trained DQN model that can play Atari PingPong-v4. We find that neuron 17 in Conv layer 1 looks at the ball and raqcuets all the time. 
 <div align='center'>
  
-<img src = 'images/neuron17_1.png' width=200>
+<img src = 'images/neuron17_1.png' width=400>
 </div>
 
 
