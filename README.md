@@ -13,10 +13,18 @@ We dissect the neurons of a trained DQN model that can play Atari PingPong-v4. W
 
 We dissect the neurons of a trained DQN model that can play Atari PingPong-v4. We find that neuron 17 in Conv layer 2 looks at the boundaries of the game so as to anticipate the bounce
 <div align='center'>
-<img src = 'images/neuron17.png'>
+<img src = 'images/neuron17.png' width=400>
 </div>
 
 We also see that Neuron 31 in Conv layer 2 has a track of the agents own score.
 <div align='center'>
-<img src = 'images/neuron31.png'>
+<img src = 'images/neuron31.png' width=400>
 </div>
+
+## Smooth Grad
+
+We also look at the gradients at the perturbed inputs to understand the important pixels that are responsible for the decision making by the DQN agent. We find that the regions with the ball and the racquets are the most important as an average.
+<div align='center'>
+<img src = 'images/grad.png' width=400>
+</div>
+
