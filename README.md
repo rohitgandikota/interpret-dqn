@@ -30,3 +30,14 @@ We also look at the gradients at the perturbed inputs to understand the importan
 <img src = 'images/grad.png' width=400>
 </div>
 
+# Citing our work
+To cite this work, please use the following bibtex:
+
+```
+@misc{gandikota2023interpretdqn ,
+title	= {Dissecting Deep-Q-Networks: Understanding their Ability to Play Vision Games},
+author	= {Rohit Gandikota},
+year	= {2023},
+URL	= {https://github.com/rohitgandikota/interpret-dqn}
+}
+```
