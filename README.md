@@ -1,5 +1,5 @@
 # Interpreting DQN: How can Deep-Q-Networks play Ping-Pong?
-### [[PAPER]](https://github.com/rohitgandikota/interpret-dqn/blob/main/interpret_dqn.pdf) | [[Train Code]](https://github.com/rohitgandikota/interpret-dqn/tree/main/train-code) | [[Weights]](https://github.com/rohitgandikota/interpret-dqn/tree/main/models) | [[Intepret Code]](https://github.com/rohitgandikota/interpret-dqn/blob/main/visualize_dqn.ipynb)
+### [[PAPER]](https://github.com/rohitgandikota/interpret-dqn/blob/main/interpret_dqn.pdf) | [[Train Code]](https://github.com/rohitgandikota/interpret-dqn/tree/main/train-code) | [[Pre-Trained Weights]](https://github.com/rohitgandikota/interpret-dqn/tree/main/models) | [[DQN Intepretation Code]](https://github.com/rohitgandikota/interpret-dqn/blob/main/visualize_dqn.ipynb)
 
 ## Introduction
 Deep neural networks are one of the widely used function approximators in reinforcement learning. However, they remain a black box tool to approximate the Q values for state-action pairs. In this work, we attempt to dissect the deep Q networks to interpret their ability to play Atari games at a human level. Understanding DQNs will open up possibilities to debug and design improved solutions in the field of reinforcement learning. Interpretability can also help in better decision-making in RL as the designers can understand the weak-point in the design. <br>
